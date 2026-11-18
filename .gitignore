@@ -1,0 +1,21 @@
+# 本地工具/会话数据（如希望把项目记忆也纳入版本库，删掉下面这行）
+.workbuddy/
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 环境与密钥
+.env
+.env.*
